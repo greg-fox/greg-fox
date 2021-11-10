@@ -1,5 +1,6 @@
 ### Software developer based in Victoria, BC, Canada.
 📫  How to reach me: gfox@gf-tech.com
+🌐 [LinkedIn](https://www.linkedin.com/in/gregfox/)
 
 <!--
 **greg-fox/greg-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
