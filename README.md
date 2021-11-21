@@ -1,7 +1,21 @@
-### Software developer based in Victoria, BC, Canada.
+# About
+## Software developer based in Victoria, BC, Canada.
 📫  How to reach me: gfox@gf-tech.com
 
 🌐 [LinkedIn](https://www.linkedin.com/in/gregfox/)
+
+# Languages and Technology
+## Coding
+* Typescript/Javacript
+* Ruby on Rails
+* C#
+
+## Supporting Apps, Services, and Tools
+* Jira/Confluence/Trello
+* [Notion](https://www.notion.so/)
+* [Obsidian](https://obsidian.md/) 
+
+
 
 <!--
 **greg-fox/greg-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
