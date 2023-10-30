@@ -6,7 +6,9 @@
 
 # Languages and Technology
 ## Coding
-* Typescript/Javacript
+* Typescript/Javascript
+  * React/React Native
+  * Angular
 * Ruby on Rails
 * C#
 
